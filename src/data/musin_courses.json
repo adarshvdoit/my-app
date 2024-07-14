@@ -1,0 +1,14 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar—fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            " isFeatu red": true,
+            "image": "/courses/gyitar.jpg"
+        }
+    ]
+}
