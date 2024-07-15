@@ -1,4 +1,6 @@
+import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+
 
 export default function Home() {
     return (
@@ -6,6 +8,8 @@ export default function Home() {
             {/* <   ext-center">Chai or Code</h1> */}
 
             <HeroSection />
+            <FeaturedCourses />
+            
         </main>
     );
 }
